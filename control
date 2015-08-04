@@ -1,0 +1,9 @@
+Package: com.mohammadag.nomusicondeviceindicator
+Name: No Music Downloaded Indicator
+Depends: mobilesubstrate, cy+os.ios (>= 8.4)
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Hide "downloaded" indicator in Music app on 8.4+
+Maintainer: Mohammad Abu-Garbeyyeh
+Author: Mohammad Abu-Garbeyyeh
+Section: Tweaks
